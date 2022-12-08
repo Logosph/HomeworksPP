@@ -1,0 +1,41 @@
+#pragma once
+
+using namespace std;
+
+int print(string s);
+void Task1_1();
+void Task1_2();
+void Task1_3();
+void Task1_4();
+void Task2_1();
+void Task2_2();
+void Task2_3();
+void Task2_4();
+void Task2_5();
+void Task3_1();
+void Task3_2();
+void Task3_3();
+void Task3_4();
+void Task3_5();
+void Task4_1();
+void Task4_2();
+void Task4_4();
+void Task4_3();
+void Task4_5();
+void Task4_6();
+void Task4_7();
+void Task4_8();
+void Task5_1();
+void Task5_2();
+void Task5_3();
+void Task5_4();
+void Task5_5();
+void spinners1();
+void spinners2();
+void spinners3();
+void spinners4();
+void spinners5();
+void Task99();
+void balls();
+void Stepik();
+void test();
